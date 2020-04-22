@@ -22,7 +22,7 @@ jupyter-notebook directory_of_notebook/NAME_OF_NOTEBOOK
 ```
 in command prompt. 
 
-On Windows, jupyter is included, e.g., in [anaconda](https://www.anaconda.com/distribution/) and the above can be done using anaconda command prompt.
+On Windows jupyter is included, e.g., in [anaconda](https://www.anaconda.com/distribution/) and the above can be done using anaconda command prompt.
 
 ## List of jupyter notebooks:
 1. [Exercise 0 - basics, single qubit gates](exercises/CW_0_0.ipynb)
