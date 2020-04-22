@@ -7,7 +7,7 @@ For our notebooks to work properly following Python libraries should be installe
 * matplotlib
 * pandas
 * Ipython
-* qiskit
+* (qiskit)[https://qiskit.org/documentation/]
 
 ## Using repository
 We encourage everyone to clone this repository:
