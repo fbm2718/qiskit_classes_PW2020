@@ -28,4 +28,4 @@ On Windows, jupyter is included, e.g., in [anaconda](https://www.anaconda.com/di
 ## List of jupyter notebooks:
 1. [Exercise 0 - basics of qiskit, single qubit gates](exercises/CW_0_0.ipynb).
 2. [Exercise 1 - two-qubit gates](exercises/CW_0_1.ipynb).
-3. [Exercise 2 - Deutsh-Jozsa algorithm](exercises/CW_0_2.ipynb).
+3. [Exercise 2 - Deutsch–Jozsa algorithm](exercises/CW_0_2.ipynb).
