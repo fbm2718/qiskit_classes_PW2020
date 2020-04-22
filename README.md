@@ -2,7 +2,7 @@
 
 
 ## Dependencies
-For our notebooks to work properly following Python libraries should be installed:
+For our notebooks to work properly, following Python libraries should be installed:
 * numpy,
 * matplotlib,
 * pandas,
