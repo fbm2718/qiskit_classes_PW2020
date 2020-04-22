@@ -16,6 +16,7 @@ git clone https://github.com/fbm2718/qiskit_classes_PW2020
 ```
 To run downloaded notebooks one needs 
 * jupyter
+
 and run command 
 ```
 jupyter-notebook directory_of_notebook/NAME_OF_NOTEBOOK
