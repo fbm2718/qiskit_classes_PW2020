@@ -17,9 +17,9 @@ git clone https://github.com/fbm2718/qiskit_classes_PW2020
 To run downloaded notebooks one needs 
 * jupyter
 and run command 
-'''
+```
 jupyter-notebook directory_of_notebook/NAME_OF_NOTEBOOK
-'''
+```
 in command prompt. 
 
 On Windows, jupyter is included, e.g., in [anaconda](https://www.anaconda.com/distribution/) and the above can be done using anaconda command prompt.
