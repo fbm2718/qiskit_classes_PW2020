@@ -14,8 +14,8 @@ We encourage everyone to clone this repository:
 ```
 git clone https://github.com/fbm2718/qiskit_classes_PW2020
 ```
-To run downloaded notebooks one needs 
-* jupyter
+To run notebooks one needs 
+* [jupyter](https://jupyter.org/)
 
 and run command 
 ```
