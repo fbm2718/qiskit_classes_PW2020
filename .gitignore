@@ -3,3 +3,4 @@
 QConfig.py
 .ipynb_checkpoints/
 __pycache__/
+.resources/
